@@ -1,3 +1,9 @@
+.DS_Store
+.metadata
+.cproject
+.project
+.settings/
+
 # Prerequisites
 *.d
 
